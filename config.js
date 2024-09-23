@@ -1,3 +1,5 @@
+// Agregarlo a un archivo .env, para no mostrar tu clave JWT
+
 export const {
   PORT = 3000,
   SALT_ROUNDS = 10,
